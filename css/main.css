@@ -2,11 +2,11 @@ body {
   background: #F9F9F9;
   font-family: Roboto;
 }
-@media (min-width: 200px){
+/*@media (min-width: 200px){
   body{
     background:red;
   }
-}
+}*/
 header{
   width:auto;
   height:auto;
